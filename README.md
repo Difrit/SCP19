@@ -1,6 +1,6 @@
 # Foundation 19
 
-[Website](https://www.foundation19.com/) - [Code](https://github.com/tichys/SCP19/) - [Discord](https://discord.gg/DrtRFxs) - [IRC](irc://irc.sorcery.net/#codershuttle)
+[Website](https://www.foundation19.com/) - [Code](https://github.com/tichys/SCP19/) - [Discord](https://discord.gg/pFKq5u5) - [IRC](irc://irc.sorcery.net/#codershuttle)
 
 ---
 
