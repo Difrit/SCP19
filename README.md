@@ -1,11 +1,11 @@
-# baystation12
+# Foundation 19
 
-[Website](http://baystation12.net/) - [Code](http://github.com/Baystation12/Baystation12/) - [Discord](https://discord.gg/DrtRFxs) - [IRC](irc://irc.sorcery.net/#codershuttle)
+[Website](https://www.foundation19.com/) - [Code](https://github.com/tichys/SCP19/) - [Discord](https://discord.gg/DrtRFxs) - [IRC](irc://irc.sorcery.net/#codershuttle)
 
 ---
 
 ### LICENSE
-The code for Baystation12 is licensed under the [GNU Affero General Public License v3](http://www.gnu.org/licenses/agpl.html), which can be found in full in LICENSE-AGPL3.txt.
+The code for Foundation 19 is licensed under the [GNU Affero General Public License v3](http://www.gnu.org/licenses/agpl.html), which can be found in full in LICENSE-AGPL3.txt.
 
 Code with a git authorship date prior to `1420675200 +0000` (2015/01/08 00:00) is licensed under the GNU General Public License version 3, which can be found in full in LICENSE-GPL3.txt.
 
@@ -45,7 +45,7 @@ First-time installation should be fairly straightforward.  First, you'll need BY
 
 This is a sourcecode-only release, so the next step is to compile the server files.  Open baystation12.dme by double-clicking it, open the Build menu, and click compile.  This'll take a little while, and if everything's done right you'll get a message like this:
 
-    saving baystation12.dmb (DEBUG mode)
+    saving foundation19.dmb (DEBUG mode)
     
     baystation12.dmb - 0 errors, 0 warnings
 
